@@ -1,0 +1,25 @@
+{
+  "name": "string-reverse-nodepack",
+  "version": "1.0.0",
+  "description": "Reverse the String",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathivanan8/string-reverse-nodepack.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Mathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathivanan8/string-reverse-nodepack/issues"
+  },
+  "homepage": "https://github.com/mathivanan8/string-reverse-nodepack#readme",
+  "dependencies": {
+    "string-reverse-nodepack": "^1.0.0"
+  }
+}
